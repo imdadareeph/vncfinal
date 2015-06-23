@@ -1,0 +1,7 @@
+http://localhost:8080/noVNC/vnc.html?host=localhost&port=8787&encrypt=0&true_color=1&password=vncpassword
+
+
+
+Environment variables
+JWEBSOCKET_EE_HOME = C:\jWebSocket
+JWEBSOCKET_HOME = C:\jWebSocket
